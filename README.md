@@ -62,9 +62,8 @@ En una distopía roedora escondida bajo tierra, la sociedad está apilada como u
 
 ---
 
-## ✊ Inspiraciones
+<p align="center">
+  <img src="Ratocracia-Design/Ratocracia-Banner.png" alt="Banner de Ratocracia">
+</p>
 
-- *Orwell* (pero con queso).  
-- *Katana ZERO*, *Yuppie Psycho*, *Night in the Woods*.  
-- Lucha de clases vista desde el subsuelo.
 
