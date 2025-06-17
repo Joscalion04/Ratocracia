@@ -21,5 +21,18 @@ direction = 0;
 /// @DnDAction : YoYo Games.Movement.Set_Speed
 /// @DnDVersion : 1
 /// @DnDHash : 3CF23095
-/// @DnDArgument : "speed" "2"
-speed = 2;
+/// @DnDArgument : "speed" "5"
+speed = 5;
+
+/// @DnDAction : YoYo Games.Common.Execute_Code
+/// @DnDVersion : 1
+/// @DnDHash : 022063A9
+/// @DnDArgument : "code" "/// @description Execute Code$(13_10)if(gravity == false){$(13_10)	direction = 0;$(13_10)	speed = 5;$(13_10)}else{$(13_10)	direction = 0;$(13_10)	speed = 5;$(13_10)}"
+/// @description Execute Code
+if(gravity == false){
+	direction = 0;
+	speed = 5;
+}else{
+	direction = 0;
+	speed = 5;
+}
