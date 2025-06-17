@@ -1,7 +1,7 @@
 /// @DnDAction : YoYo Games.Common.Execute_Code
 /// @DnDVersion : 1
 /// @DnDHash : 1CF343EA
-/// @DnDArgument : "code" "  /// @description Execute Code$(13_10)$(13_10)//mitavistaX=camera_get_view_width(view_camera[0])/2;$(13_10)//mitavistaY=camera_get_view_height(view_camera[0])/2;$(13_10)$(13_10)//camera_set_view_pos(view_camera[0],Obj_protagonista.x -  ,Obj_protagonista.y - mitavistaY);$(13_10)$(13_10)if (y > room_height) {$(13_10)    x = x_inicial;$(13_10)    y = y_inicial;$(13_10)    vspeed = 0;$(13_10)}$(13_10)$(13_10)$(13_10)if place_free(x,y+1){$(13_10)	gravity = true;$(13_10)}else{$(13_10)	gravity = false;$(13_10)}$(13_10)$(13_10)if(vspeed >=10){$(13_10) vspeed = 10;$(13_10)}$(13_10)$(13_10)$(13_10)"
+/// @DnDArgument : "code" "  /// @description Execute Code$(13_10)$(13_10)//mitavistaX=camera_get_view_width(view_camera[0])/2;$(13_10)//mitavistaY=camera_get_view_height(view_camera[0])/2;$(13_10)$(13_10)//camera_set_view_pos(view_camera[0],Obj_protagonista.x -  ,Obj_protagonista.y - mitavistaY);$(13_10)$(13_10)if (y > room_height) {$(13_10)    x = x_inicial;$(13_10)    y = y_inicial;$(13_10)    vspeed = 0;$(13_10)}$(13_10)$(13_10)$(13_10)if place_free(x,y+1){$(13_10)	gravity = true;$(13_10)}else{$(13_10)	gravity = false;$(13_10)}$(13_10)$(13_10)if(vspeed >=10){$(13_10) vspeed = 10;$(13_10)}$(13_10)$(13_10)$(13_10)$(13_10)"
   /// @description Execute Code
 
 //mitavistaX=camera_get_view_width(view_camera[0])/2;

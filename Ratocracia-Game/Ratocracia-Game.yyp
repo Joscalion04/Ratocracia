@@ -111,6 +111,7 @@
     {"id":{"name":"Obj_portal_lv1_to_lv2","path":"objects/Obj_portal_lv1_to_lv2/Obj_portal_lv1_to_lv2.yy",},},
     {"id":{"name":"Obj_portal_lv2_to_lv3","path":"objects/Obj_portal_lv2_to_lv3/Obj_portal_lv2_to_lv3.yy",},},
     {"id":{"name":"Obj_portal_lv3_to_lv4","path":"objects/Obj_portal_lv3_to_lv4/Obj_portal_lv3_to_lv4.yy",},},
+    {"id":{"name":"Obj_portal_lv4_to_lv5","path":"objects/Obj_portal_lv4_to_lv5/Obj_portal_lv4_to_lv5.yy",},},
     {"id":{"name":"Obj_protagonista","path":"objects/Obj_protagonista/Obj_protagonista.yy",},},
     {"id":{"name":"Obj_sound_fondo","path":"objects/Obj_sound_fondo/Obj_sound_fondo.yy",},},
     {"id":{"name":"Obj_tubo","path":"objects/Obj_tubo/Obj_tubo.yy",},},

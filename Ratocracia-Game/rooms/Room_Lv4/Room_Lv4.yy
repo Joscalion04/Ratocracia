@@ -15,6 +15,7 @@
     {"name":"inst_4C9BABB5","path":"rooms/Room_Lv4/Room_Lv4.yy",},
     {"name":"inst_42227764","path":"rooms/Room_Lv4/Room_Lv4.yy",},
     {"name":"inst_7522D12E","path":"rooms/Room_Lv4/Room_Lv4.yy",},
+    {"name":"inst_1B1D3F0C","path":"rooms/Room_Lv4/Room_Lv4.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -28,6 +29,7 @@
         {"$GMRInstance":"v2","%Name":"inst_4C9BABB5","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_4C9BABB5","objectId":{"name":"Obj_plataforma_lv4","path":"objects/Obj_plataforma_lv4/Obj_plataforma_lv4.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":6.5,"scaleY":2.0,"x":128.0,"y":1024.0,},
         {"$GMRInstance":"v2","%Name":"inst_42227764","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_42227764","objectId":{"name":"Obj_plataforma_lv4","path":"objects/Obj_plataforma_lv4/Obj_plataforma_lv4.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":4.5,"scaleY":2.0,"x":624.0,"y":880.0,},
         {"$GMRInstance":"v2","%Name":"inst_7522D12E","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_7522D12E","objectId":{"name":"Obj_plataforma_lv4","path":"objects/Obj_plataforma_lv4/Obj_plataforma_lv4.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":6.5,"scaleY":2.0,"x":208.0,"y":736.0,},
+        {"$GMRInstance":"v2","%Name":"inst_1B1D3F0C","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_1B1D3F0C","objectId":{"name":"Obj_portal_lv4_to_lv5","path":"objects/Obj_portal_lv4_to_lv5/Obj_portal_lv4_to_lv5.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":576.0,"y":1328.0,},
       ],"layers":[],"name":"Instances","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRBackgroundLayer":"","%Name":"Background","animationFPS":30.0,"animationSpeedType":0,"colour":4294967295,"depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Background","properties":[],"resourceType":"GMRBackgroundLayer","resourceVersion":"2.0","spriteId":{"name":"Spr_room_lv4","path":"sprites/Spr_room_lv4/Spr_room_lv4.yy",},"stretch":false,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":false,"x":0,"y":0,},
   ],
