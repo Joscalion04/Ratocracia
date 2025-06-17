@@ -7,7 +7,7 @@
   "overriddenProperties":[],
   "parent":{
     "name":"miscelaneos",
-    "path":"folders/Objects/Escenario/LV3/miscelaneos.yy",
+    "path":"folders/Objects/Escenario/Lv3/miscelaneos.yy",
   },
   "parentObjectId":null,
   "persistent":false,

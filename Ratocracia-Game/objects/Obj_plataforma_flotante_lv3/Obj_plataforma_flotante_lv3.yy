@@ -7,7 +7,7 @@
   "overriddenProperties":[],
   "parent":{
     "name":"plataformas",
-    "path":"folders/Objects/Escenario/LV3/plataformas.yy",
+    "path":"folders/Objects/Escenario/Lv3/plataformas.yy",
   },
   "parentObjectId":null,
   "persistent":false,

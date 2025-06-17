@@ -10,7 +10,7 @@
   "overriddenProperties":[],
   "parent":{
     "name":"personajes",
-    "path":"folders/Objects/Escenario/LV3/personajes.yy",
+    "path":"folders/Objects/Escenario/Lv3/personajes.yy",
   },
   "parentObjectId":null,
   "persistent":false,
