@@ -1,15 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"Obj_plataforma_lv1",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"Obj_plataforma_lv2",
+  "eventList":[],
   "managed":true,
-  "name":"Obj_plataforma_lv1",
+  "name":"Obj_plataforma_lv2",
   "overriddenProperties":[],
   "parent":{
     "name":"plataformas",
-    "path":"folders/Objects/Escenario/Lv1/plataformas.yy",
+    "path":"folders/Objects/Escenario/Lv2/plataformas.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -30,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":true,
   "spriteId":{
-    "name":"Spr_plataforma_lv1",
-    "path":"sprites/Spr_plataforma_lv1/Spr_plataforma_lv1.yy",
+    "name":"Spr_plataforma_lv2",
+    "path":"sprites/Spr_plataforma_lv2/Spr_plataforma_lv2.yy",
   },
   "spriteMaskId":null,
   "visible":true,
