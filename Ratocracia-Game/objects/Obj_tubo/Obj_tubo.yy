@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"Obj_magia",
+  "%Name":"Obj_tubo",
   "eventList":[],
   "managed":true,
-  "name":"Obj_magia",
+  "name":"Obj_tubo",
   "overriddenProperties":[],
   "parent":{
     "name":"miscelaneos",

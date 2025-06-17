@@ -1,13 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"Obj_magia",
+  "%Name":"Obj_caja",
   "eventList":[],
   "managed":true,
-  "name":"Obj_magia",
+  "name":"Obj_caja",
   "overriddenProperties":[],
   "parent":{
     "name":"miscelaneos",
-    "path":"folders/Objects/Escenario/LV3/miscelaneos.yy",
+    "path":"folders/Objects/Escenario/Lv2/miscelaneos.yy",
   },
   "parentObjectId":null,
   "persistent":false,

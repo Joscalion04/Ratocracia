@@ -1,9 +1,11 @@
 {
   "$GMObject":"",
-  "%Name":"Obj_magia",
-  "eventList":[],
+  "%Name":"Obj_portal_lv3_to_lv4",
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"Obj_protagonista","path":"objects/Obj_protagonista/Obj_protagonista.yy",},"eventNum":0,"eventType":4,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
-  "name":"Obj_magia",
+  "name":"Obj_portal_lv3_to_lv4",
   "overriddenProperties":[],
   "parent":{
     "name":"miscelaneos",
@@ -26,10 +28,10 @@
   "properties":[],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
-  "solid":true,
+  "solid":false,
   "spriteId":{
-    "name":"Spr_magia",
-    "path":"sprites/Spr_magia/Spr_magia.yy",
+    "name":"Sprite13",
+    "path":"sprites/Sprite13/Sprite13.yy",
   },
   "spriteMaskId":null,
   "visible":true,

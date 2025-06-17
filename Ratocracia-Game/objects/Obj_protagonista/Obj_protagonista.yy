@@ -13,6 +13,8 @@
     {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"Obj_plataforma_suelo_lv2","path":"objects/Obj_plataforma_suelo_lv2/Obj_plataforma_suelo_lv2.yy",},"eventNum":0,"eventType":4,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"Obj_plataforma_lv2","path":"objects/Obj_plataforma_lv2/Obj_plataforma_lv2.yy",},"eventNum":0,"eventType":4,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"Obj_portal_lv1_to_lv2","path":"objects/Obj_portal_lv1_to_lv2/Obj_portal_lv1_to_lv2.yy",},"eventNum":0,"eventType":4,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"Obj_plataforma_flotante_lv3","path":"objects/Obj_plataforma_flotante_lv3/Obj_plataforma_flotante_lv3.yy",},"eventNum":0,"eventType":4,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"Obj_magia","path":"objects/Obj_magia/Obj_magia.yy",},"eventNum":0,"eventType":4,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
   "name":"Obj_protagonista",

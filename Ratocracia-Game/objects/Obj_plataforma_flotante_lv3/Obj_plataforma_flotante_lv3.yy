@@ -1,13 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"Obj_magia",
+  "%Name":"Obj_plataforma_flotante_lv3",
   "eventList":[],
   "managed":true,
-  "name":"Obj_magia",
+  "name":"Obj_plataforma_flotante_lv3",
   "overriddenProperties":[],
   "parent":{
-    "name":"miscelaneos",
-    "path":"folders/Objects/Escenario/LV3/miscelaneos.yy",
+    "name":"plataformas",
+    "path":"folders/Objects/Escenario/LV3/plataformas.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":true,
   "spriteId":{
-    "name":"Spr_magia",
-    "path":"sprites/Spr_magia/Spr_magia.yy",
+    "name":"Spr_plataforma_flotante_lv3",
+    "path":"sprites/Spr_plataforma_flotante_lv3/Spr_plataforma_flotante_lv3.yy",
   },
   "spriteMaskId":null,
   "visible":true,
