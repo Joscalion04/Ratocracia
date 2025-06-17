@@ -26,7 +26,7 @@
   "properties":[],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
-  "solid":true,
+  "solid":false,
   "spriteId":{
     "name":"Spr_plataforma_flotante_lv3",
     "path":"sprites/Spr_plataforma_flotante_lv3/Spr_plataforma_flotante_lv3.yy",
