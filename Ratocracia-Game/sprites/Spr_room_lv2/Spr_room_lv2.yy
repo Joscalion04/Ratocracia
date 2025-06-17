@@ -25,8 +25,8 @@
   "nineSlice":null,
   "origin":4,
   "parent":{
-    "name":"Lv2",
-    "path":"folders/Sprites/Escenario/Lv2.yy",
+    "name":"plataformas",
+    "path":"folders/Sprites/Escenario/Lv2/plataformas.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",
