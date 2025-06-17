@@ -1,27 +1,28 @@
-/// @DnDAction : YoYo Games.Common.Execute_Code
-/// @DnDVersion : 1
-/// @DnDHash : 1CF343EA
-/// @DnDArgument : "code" "  /// @description Execute Code$(13_10)$(13_10)//mitavistaX=camera_get_view_width(view_camera[0])/2;$(13_10)//mitavistaY=camera_get_view_height(view_camera[0])/2;$(13_10)$(13_10)//camera_set_view_pos(view_camera[0],Obj_protagonista.x -  ,Obj_protagonista.y - mitavistaY);$(13_10)$(13_10)if (y > room_height) {$(13_10)    x = x_inicial;$(13_10)    y = y_inicial;$(13_10)    vspeed = 0;$(13_10)}$(13_10)$(13_10)$(13_10)if place_free(x,y+1){$(13_10)	gravity = true;$(13_10)}else{$(13_10)	gravity = false;$(13_10)}$(13_10)$(13_10)if(vspeed >=10){$(13_10) vspeed = 10;$(13_10)}$(13_10)$(13_10)$(13_10)$(13_10)"
-  /// @description Execute Code
-
-//mitavistaX=camera_get_view_width(view_camera[0])/2;
-//mitavistaY=camera_get_view_height(view_camera[0])/2;
-
-//camera_set_view_pos(view_camera[0],Obj_protagonista.x -  ,Obj_protagonista.y - mitavistaY);
-
+#region Caida
 if (y > room_height) {
     x = x_inicial;
     y = y_inicial;
     vspeed = 0;
 }
+#endregion
 
+#region Movimiento Horizontal
+var hor = keyboard_check(vk_right) - keyboard_check(vk_left);
 
-if place_free(x,y+1){
-	gravity = true;
-}else{
-	gravity = false;
+if(hor != 0) {
+	if (place_free(x+ hor * 2, y)) {
+		x += hor * 5;
+	}
+	
+	image_xscale = hor;
+	sprite_index = Spr_rat_run;
+} else {
+	sprite_index = Spr_rat_idle;
 }
+#endregion
 
-if(vspeed >=10){
- vspeed = 10;
+#region Salto
+if (keyboard_check_pressed(vk_space) && collision_rectangle(x-8, y, x+8, y+1, Obj_base,false,false)) {
+	vspeed = -10;
 }
+#endregion
