@@ -3,12 +3,11 @@
   "%Name":"Obj_button_help",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":4,"eventType":6,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
   "name":"Obj_button_help",
   "overriddenProperties":[
-    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"Objt_button_parent","path":"objects/Objt_button_parent/Objt_button_parent.yy",},"propertyId":{"name":"button_text","path":"objects/Objt_button_parent/Objt_button_parent.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"",},
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"Objt_button_parent","path":"objects/Objt_button_parent/Objt_button_parent.yy",},"propertyId":{"name":"button_text","path":"objects/Objt_button_parent/Objt_button_parent.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"Ayuda",},
   ],
   "parent":{
     "name":"menu",

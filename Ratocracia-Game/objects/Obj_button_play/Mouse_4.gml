@@ -1,11 +1,11 @@
 /// @DnDAction : YoYo Games.Instances.Inherit_Event
 /// @DnDVersion : 1
-/// @DnDHash : 2313369D
+/// @DnDHash : 0DE9DBAC
 event_inherited();
 
 /// @DnDAction : YoYo Games.Rooms.Go_To_Room
 /// @DnDVersion : 1
-/// @DnDHash : 106A3DEF
+/// @DnDHash : 47EDDF6B
 /// @DnDArgument : "room" "Room_Lv1"
 /// @DnDSaveInfo : "room" "Room_Lv1"
 room_goto(Room_Lv1);

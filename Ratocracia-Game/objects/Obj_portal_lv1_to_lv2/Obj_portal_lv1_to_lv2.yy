@@ -30,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Sprite13",
-    "path":"sprites/Sprite13/Sprite13.yy",
+    "name":"Spr_queso",
+    "path":"sprites/Spr_queso/Spr_queso.yy",
   },
   "spriteMaskId":null,
   "visible":true,

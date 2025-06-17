@@ -7,7 +7,7 @@
   "overriddenProperties":[],
   "parent":{
     "name":"miscelaneos",
-    "path":"folders/Objects/Escenario/LV3/miscelaneos.yy",
+    "path":"folders/Objects/Escenario/Lv1/miscelaneos.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":true,
   "spriteId":{
-    "name":"Spr_magia",
-    "path":"sprites/Spr_magia/Spr_magia.yy",
+    "name":"Spr_tuberia",
+    "path":"sprites/Spr_tuberia/Spr_tuberia.yy",
   },
   "spriteMaskId":null,
   "visible":true,
