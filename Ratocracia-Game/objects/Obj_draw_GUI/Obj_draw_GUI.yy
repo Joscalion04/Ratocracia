@@ -1,15 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"Obj_Vidas",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":64,"eventType":8,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"Obj_draw_GUI",
+  "eventList":[],
   "managed":true,
-  "name":"Obj_Vidas",
+  "name":"Obj_draw_GUI",
   "overriddenProperties":[],
   "parent":{
-    "name":"Escenario",
-    "path":"folders/Objects/Escenario.yy",
+    "name":"GUI",
+    "path":"folders/Objects/GUI.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -29,10 +27,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"Spr_vida",
-    "path":"sprites/Spr_vida/Spr_vida.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }
