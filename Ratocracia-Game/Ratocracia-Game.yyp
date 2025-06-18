@@ -131,6 +131,7 @@
     {"id":{"name":"Spr_background","path":"sprites/Spr_background/Spr_background.yy",},},
     {"id":{"name":"Spr_base","path":"sprites/Spr_base/Spr_base.yy",},},
     {"id":{"name":"Spr_button_base","path":"sprites/Spr_button_base/Spr_button_base.yy",},},
+    {"id":{"name":"Spr_magia_reina","path":"sprites/Spr_magia_reina/Spr_magia_reina.yy",},},
     {"id":{"name":"Spr_magia","path":"sprites/Spr_magia/Spr_magia.yy",},},
     {"id":{"name":"Spr_mapache_stand","path":"sprites/Spr_mapache_stand/Spr_mapache_stand.yy",},},
     {"id":{"name":"Spr_plataforma_flotante_lv3","path":"sprites/Spr_plataforma_flotante_lv3/Spr_plataforma_flotante_lv3.yy",},},
