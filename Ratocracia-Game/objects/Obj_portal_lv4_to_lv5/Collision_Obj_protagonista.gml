@@ -7,3 +7,11 @@
 if (place_meeting(x, y, Obj_protagonista)) {
     room_goto(Room_Lv5); // Cambia esto por tu room objetivo
 }
+
+/// @DnDAction : YoYo Games.Audio.Play_Audio
+/// @DnDVersion : 1.1
+/// @DnDHash : 2F329E08
+/// @DnDArgument : "soundid" "Snd_final"
+/// @DnDArgument : "loop" "1"
+/// @DnDSaveInfo : "soundid" "Snd_final"
+audio_play_sound(Snd_final, 0, 1, 1.0, undefined, 1.0);

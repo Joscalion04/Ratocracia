@@ -1,15 +1,16 @@
 {
   "$GMObject":"",
-  "%Name":"Objt_sapito",
+  "%Name":"Obj_conejo_guarda",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"Objt_sapito",
+  "name":"Obj_conejo_guarda",
   "overriddenProperties":[],
   "parent":{
     "name":"personajes",
-    "path":"folders/Objects/Escenario/Lv1/personajes.yy",
+    "path":"folders/Objects/Escenario/Lv4/personajes.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -30,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Spr_sapito_quieto",
-    "path":"sprites/Spr_sapito_quieto/Spr_sapito_quieto.yy",
+    "name":"Spr_conejo_guardia",
+    "path":"sprites/Spr_conejo_guardia/Spr_conejo_guardia.yy",
   },
   "spriteMaskId":null,
   "visible":true,
