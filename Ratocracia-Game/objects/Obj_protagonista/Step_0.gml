@@ -7,22 +7,28 @@ if (y > room_height) {
 #endregion
 
 #region Movimiento Horizontal
-var move_right = keyboard_check(vk_right) || keyboard_check(ord("D"));
-var move_left  = keyboard_check(vk_left)  || keyboard_check(ord("A"));
-var hor = move_right - move_left;
+var hor = 0;
 
-if(hor != 0) {
-	if (place_free(x+ hor * 2, y)) {
-		x += hor * 5;
+if (!global.dialogue_isactive) {
+	var move_right = keyboard_check(vk_right) || keyboard_check(ord("D"));
+	var move_left  = keyboard_check(vk_left)  || keyboard_check(ord("A"));
+	hor = move_right - move_left;
+
+	if(hor != 0) {
+		if (place_free(x + hor * 2, y)) {
+			x += hor * 5;
+		}
+		image_xscale = hor;
 	}
-	image_xscale = hor;
 }
 #endregion
 
 #region Salto
-if ((keyboard_check_pressed(vk_space) || keyboard_check_pressed(ord("W"))) 
-    && collision_rectangle(x-8, y, x+8, y+1, Obj_base,false,false)) {
-	vspeed = -10;
+if (!global.dialogue_isactive) {
+	if ((keyboard_check_pressed(vk_space) || keyboard_check_pressed(ord("W"))) 
+	    && collision_rectangle(x-8, y, x+8, y+1, Obj_base,false,false)) {
+		vspeed = -10;
+	}
 }
 #endregion
 

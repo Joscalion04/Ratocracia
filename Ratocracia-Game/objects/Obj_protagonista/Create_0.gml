@@ -1,3 +1,5 @@
+
+
 sprite_index = Spr_rat_idle;
 image_index = 0;
 
