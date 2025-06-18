@@ -6,11 +6,11 @@
   "inheritCreationOrder":false,
   "inheritLayers":false,
   "instanceCreationOrder":[
-    {"name":"inst_407D0982","path":"rooms/Room_Menu/Room_Menu.yy",},
     {"name":"inst_6FA508CE","path":"rooms/Room_Menu/Room_Menu.yy",},
     {"name":"inst_3596BFB","path":"rooms/Room_Menu/Room_Menu.yy",},
     {"name":"inst_41AFBE38","path":"rooms/Room_Menu/Room_Menu.yy",},
     {"name":"inst_C90FD5A","path":"rooms/Room_Menu/Room_Menu.yy",},
+    {"name":"inst_407D0982","path":"rooms/Room_Menu/Room_Menu.yy",},
   ],
   "isDnd":false,
   "layers":[

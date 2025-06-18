@@ -26,7 +26,7 @@
   "properties":[],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
-  "solid":true,
+  "solid":false,
   "spriteId":{
     "name":"Spr_plataforma_lv5",
     "path":"sprites/Spr_plataforma_lv5/Spr_plataforma_lv5.yy",
