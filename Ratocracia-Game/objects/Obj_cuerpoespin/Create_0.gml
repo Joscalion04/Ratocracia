@@ -1,11 +1,10 @@
 /// @DnDAction : YoYo Games.Instances.Set_Sprite
 /// @DnDVersion : 1
 /// @DnDHash : 05F11783
-/// @DnDArgument : "imageind" "1"
-/// @DnDArgument : "spriteind" "Spr_atack"
-/// @DnDSaveInfo : "spriteind" "Spr_atack"
-sprite_index = Spr_atack;
-image_index = 1;
+/// @DnDArgument : "spriteind" "Spr_puercoespin_idle"
+/// @DnDSaveInfo : "spriteind" "Spr_puercoespin_idle"
+sprite_index = Spr_puercoespin_idle;
+image_index = 0;
 
 /// @DnDAction : YoYo Games.Instances.Sprite_Animation_Speed
 /// @DnDVersion : 1

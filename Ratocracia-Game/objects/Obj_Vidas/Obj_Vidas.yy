@@ -1,16 +1,15 @@
 {
   "$GMObject":"",
-  "%Name":"Obj_cuerpoespin",
+  "%Name":"Obj_Vidas",
   "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":2,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"Obj_cuerpoespin",
+  "name":"Obj_Vidas",
   "overriddenProperties":[],
   "parent":{
-    "name":"personajes",
-    "path":"folders/Objects/Escenario/Lv1/personajes.yy",
+    "name":"Escenario",
+    "path":"folders/Objects/Escenario.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -31,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Spr_puercoespin_idle",
-    "path":"sprites/Spr_puercoespin_idle/Spr_puercoespin_idle.yy",
+    "name":"Spr_vida",
+    "path":"sprites/Spr_vida/Spr_vida.yy",
   },
   "spriteMaskId":null,
   "visible":true,

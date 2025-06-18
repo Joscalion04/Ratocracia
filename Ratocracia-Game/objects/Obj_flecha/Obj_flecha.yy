@@ -1,16 +1,15 @@
 {
   "$GMObject":"",
-  "%Name":"Obj_cuerpoespin",
+  "%Name":"Obj_flecha",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":2,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"Obj_cuerpoespin",
+  "name":"Obj_flecha",
   "overriddenProperties":[],
   "parent":{
-    "name":"personajes",
-    "path":"folders/Objects/Escenario/Lv1/personajes.yy",
+    "name":"miscelaneos",
+    "path":"folders/Objects/Escenario/Lv1/miscelaneos.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -31,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Spr_puercoespin_idle",
-    "path":"sprites/Spr_puercoespin_idle/Spr_puercoespin_idle.yy",
+    "name":"Spr_flecha",
+    "path":"sprites/Spr_flecha/Spr_flecha.yy",
   },
   "spriteMaskId":null,
   "visible":true,
