@@ -32,8 +32,8 @@
   "resourceVersion":"2.0",
   "solid":true,
   "spriteId":{
-    "name":"Spr_magia",
-    "path":"sprites/Spr_magia/Spr_magia.yy",
+    "name":"Spr_ataque_reina",
+    "path":"sprites/Spr_ataque_reina/Spr_ataque_reina.yy",
   },
   "spriteMaskId":null,
   "visible":true,
