@@ -2,7 +2,7 @@
   "$GMSprite":"",
   "%Name":"Spr_room_lv5",
   "bboxMode":0,
-  "bbox_bottom":501,
+  "bbox_bottom":1707,
   "bbox_left":0,
   "bbox_right":1023,
   "bbox_top":0,
@@ -12,14 +12,14 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"639d11e3-cfd6-454e-a814-3fa07a4c03ac","name":"639d11e3-cfd6-454e-a814-3fa07a4c03ac","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"b90c88d7-f6df-49ef-8da8-7f147cd28084","name":"b90c88d7-f6df-49ef-8da8-7f147cd28084","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
-  "height":576,
+  "height":1708,
   "HTile":false,
   "layers":[
-    {"$GMImageLayer":"","%Name":"ae345a27-c798-4fcf-ad7c-ca9aca59fd18","blendMode":0,"displayName":"default","isLocked":false,"name":"ae345a27-c798-4fcf-ad7c-ca9aca59fd18","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMImageLayer":"","%Name":"fd06936c-5a45-4582-89ba-2dc5c80404df","blendMode":0,"displayName":"default","isLocked":false,"name":"fd06936c-5a45-4582-89ba-2dc5c80404df","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
   "name":"Spr_room_lv5",
   "nineSlice":null,
@@ -63,7 +63,7 @@
     "playbackSpeedType":0,
     "resourceType":"GMSequence",
     "resourceVersion":"2.0",
-    "seqHeight":576.0,
+    "seqHeight":1708.0,
     "seqWidth":1024.0,
     "showBackdrop":true,
     "showBackdropImage":false,
@@ -71,8 +71,8 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"639d11e3-cfd6-454e-a814-3fa07a4c03ac","path":"sprites/Spr_room_lv5/Spr_room_lv5.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"304b6ea0-aa84-45cc-a4fd-6d89a2ad1553","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"b90c88d7-f6df-49ef-8da8-7f147cd28084","path":"sprites/Spr_room_lv5/Spr_room_lv5.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"ab720c00-c453-4847-9f15-8dbccc301c09","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,
