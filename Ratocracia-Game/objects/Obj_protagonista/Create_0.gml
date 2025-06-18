@@ -8,3 +8,6 @@ y_inicial = y;
 invulnerable = false;
 
 vida = 100;
+
+saltos_maximos = 1;
+saltos_restantes = 1;

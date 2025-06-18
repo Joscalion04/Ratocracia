@@ -20,10 +20,20 @@ if(hor != 0) {
 #endregion
 
 #region Salto
-if ((keyboard_check_pressed(vk_space) || keyboard_check_pressed(ord("W"))) 
-    && collision_rectangle(x-8, y, x+8, y+1, Obj_base,false,false)) {
-	vspeed = -10;
+#region Salto
+var en_suelo = collision_rectangle(x - 8, y + 1, x + 8, y + 2, Obj_base, false, false);
+
+// Si está en el suelo, restablece los saltos
+if (en_suelo) {
+    saltos_restantes = saltos_maximos;
 }
+
+// Detectar salto
+if ((keyboard_check_pressed(vk_space) || keyboard_check_pressed(ord("W"))) && saltos_restantes > 0) {
+    vspeed = -10;
+    saltos_restantes -= 1;
+}
+#endregion
 #endregion
 
 #region Animación
