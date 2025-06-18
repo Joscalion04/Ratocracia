@@ -20,7 +20,7 @@ if(hor != 0) {
 	sprite_index = Spr_rat_run;
 	image_speed = 0.5;
 } else {
-	image_speed = 0;
+	image_speed = 0.5;
 	sprite_index = Spr_rat_idle;
 }
 #endregion
