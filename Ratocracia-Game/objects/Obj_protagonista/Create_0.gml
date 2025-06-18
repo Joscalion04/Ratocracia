@@ -6,3 +6,5 @@ image_speed = 0;
 x_inicial = x;
 y_inicial = y;
 invulnerable = false;
+
+vida = 100;
